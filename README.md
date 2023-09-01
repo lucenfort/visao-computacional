@@ -7,4 +7,4 @@ O repositório está dividido em várias seções, cada uma com foco em um tópi
 
 | Nome do Projeto | Descrição | Link | Tecnologias Usadas | Data de Conclusão | Status do Projeto |
 | --------------- | --------- | ---- | ------------------ | ----------------- | ----------------- |
-| Data Augmentation | Este projeto implementa várias técnicas de Data Augmentation em Python usando a biblioteca OpenCV. As técnicas implementadas incluem escala, rotação, recorte, inversão, ajuste de contraste, distorção, adição de ruído e mudança de cor. | [Link](url) | Python, OpenCV, Numpy, Matplotlib | 01/09/2023 | Concluído |
+| Data Augmentation | Este projeto implementa várias técnicas de Data Augmentation em Python usando a biblioteca OpenCV. As técnicas implementadas incluem escala, rotação, recorte, inversão, ajuste de contraste, distorção, adição de ruído e mudança de cor. | [[Link]](https://github.com/lucenfort/data-augmentation.git) | Python, OpenCV, Numpy, Matplotlib | 01/09/2023 | Concluído |
